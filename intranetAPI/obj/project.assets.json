@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\onedrive\\Laboratorio\\Intranet\\intranetAPI\\IntranetAPI.csproj",
+      "projectUniqueName": "c:\\onedrive\\Intranet\\Intranet\\intranetAPI\\IntranetAPI.csproj",
       "projectName": "IntranetAPI",
-      "projectPath": "c:\\onedrive\\Laboratorio\\Intranet\\intranetAPI\\IntranetAPI.csproj",
+      "projectPath": "c:\\onedrive\\Intranet\\Intranet\\intranetAPI\\IntranetAPI.csproj",
       "packagesPath": "C:\\Users\\FOGLIATO\\.nuget\\packages\\",
-      "outputPath": "c:\\onedrive\\Laboratorio\\Intranet\\intranetAPI\\obj\\",
+      "outputPath": "c:\\onedrive\\Intranet\\Intranet\\intranetAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

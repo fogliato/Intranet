@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\onedrive\\Laboratorio\\Intranet\\IntranetEntities\\IntranetEntities.csproj",
+      "projectUniqueName": "c:\\onedrive\\Intranet\\Intranet\\IntranetEntities\\IntranetEntities.csproj",
       "projectName": "IntranetEntities",
-      "projectPath": "c:\\onedrive\\Laboratorio\\Intranet\\IntranetEntities\\IntranetEntities.csproj",
+      "projectPath": "c:\\onedrive\\Intranet\\Intranet\\IntranetEntities\\IntranetEntities.csproj",
       "packagesPath": "C:\\Users\\FOGLIATO\\.nuget\\packages\\",
-      "outputPath": "c:\\onedrive\\Laboratorio\\Intranet\\IntranetEntities\\obj\\",
+      "outputPath": "c:\\onedrive\\Intranet\\Intranet\\IntranetEntities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
