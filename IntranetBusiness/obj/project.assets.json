@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\onedrive\\Laboratorio\\Intranet\\IntranetBusiness\\IntranetBusiness.csproj",
+      "projectUniqueName": "c:\\onedrive\\Intranet\\Intranet\\IntranetBusiness\\IntranetBusiness.csproj",
       "projectName": "IntranetBusiness",
-      "projectPath": "c:\\onedrive\\Laboratorio\\Intranet\\IntranetBusiness\\IntranetBusiness.csproj",
+      "projectPath": "c:\\onedrive\\Intranet\\Intranet\\IntranetBusiness\\IntranetBusiness.csproj",
       "packagesPath": "C:\\Users\\FOGLIATO\\.nuget\\packages\\",
-      "outputPath": "c:\\onedrive\\Laboratorio\\Intranet\\IntranetBusiness\\obj\\",
+      "outputPath": "c:\\onedrive\\Intranet\\Intranet\\IntranetBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
