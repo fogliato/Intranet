@@ -2,7 +2,7 @@ using System;
 
 namespace IntranetEntities
 {
-    public class CardapioDto
+    public struct CardapioDto
     {
         public int id { get; set; }
         public string descricao { get; set; }

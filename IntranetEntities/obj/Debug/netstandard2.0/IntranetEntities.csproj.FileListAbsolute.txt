@@ -1,0 +1,9 @@
+/home/junior/Documentos/Intranet/Intranet/IntranetEntities/bin/Debug/netstandard2.0/IntranetEntities.deps.json
+/home/junior/Documentos/Intranet/Intranet/IntranetEntities/bin/Debug/netstandard2.0/IntranetEntities.dll
+/home/junior/Documentos/Intranet/Intranet/IntranetEntities/bin/Debug/netstandard2.0/IntranetEntities.pdb
+/home/junior/Documentos/Intranet/Intranet/IntranetEntities/obj/Debug/netstandard2.0/IntranetEntities.csprojAssemblyReference.cache
+/home/junior/Documentos/Intranet/Intranet/IntranetEntities/obj/Debug/netstandard2.0/IntranetEntities.csproj.CoreCompileInputs.cache
+/home/junior/Documentos/Intranet/Intranet/IntranetEntities/obj/Debug/netstandard2.0/IntranetEntities.AssemblyInfoInputs.cache
+/home/junior/Documentos/Intranet/Intranet/IntranetEntities/obj/Debug/netstandard2.0/IntranetEntities.AssemblyInfo.cs
+/home/junior/Documentos/Intranet/Intranet/IntranetEntities/obj/Debug/netstandard2.0/IntranetEntities.dll
+/home/junior/Documentos/Intranet/Intranet/IntranetEntities/obj/Debug/netstandard2.0/IntranetEntities.pdb

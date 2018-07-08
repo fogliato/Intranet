@@ -2,7 +2,7 @@ using System;
 
 namespace IntranetEntities
 {
-    public class RamalDto
+    public struct RamalDto
     {
         public int id { get; set; }
         public string Nome { get; set; }

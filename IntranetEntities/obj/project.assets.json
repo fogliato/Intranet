@@ -176,30 +176,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FOGLIATO\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/junior/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\onedrive\\Intranet\\Intranet\\IntranetEntities\\IntranetEntities.csproj",
+      "projectUniqueName": "/home/junior/Documentos/Intranet/Intranet/IntranetEntities/IntranetEntities.csproj",
       "projectName": "IntranetEntities",
-      "projectPath": "c:\\onedrive\\Intranet\\Intranet\\IntranetEntities\\IntranetEntities.csproj",
-      "packagesPath": "C:\\Users\\FOGLIATO\\.nuget\\packages\\",
-      "outputPath": "c:\\onedrive\\Intranet\\Intranet\\IntranetEntities\\obj\\",
+      "projectPath": "/home/junior/Documentos/Intranet/Intranet/IntranetEntities/IntranetEntities.csproj",
+      "packagesPath": "/home/junior/.nuget/packages/",
+      "outputPath": "/home/junior/Documentos/Intranet/Intranet/IntranetEntities/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\FOGLIATO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/junior/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

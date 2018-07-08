@@ -2,7 +2,7 @@ using System;
 
 namespace IntranetEntities
 {
-    public class AcessosDto
+    public struct AcessosDto
     {
         public int id { get; set; }
         
